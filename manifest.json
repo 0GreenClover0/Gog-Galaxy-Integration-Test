@@ -1,0 +1,11 @@
+{
+    "name": "Test plugin",
+    "platform": "test",
+    "guid": "5d6c7cb2-bcb5-4b0a-b229-4a602361ba85",
+    "version": "0.1",
+    "description": "Example plugin",
+    "author": "Name",
+    "email": "author@email.com",
+    "url": "https://github.com/0GreenClover0/Gog-Galaxy-Integration-Test",
+    "script": "plugin.py"
+}
